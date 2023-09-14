@@ -1,0 +1,23 @@
+.title-notes{
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.title-date{
+    font-size: 10px;
+    font-weight: bold;
+    color: red;
+}
+
+
+.title-edit {
+    font-size: 10px;
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+}
+
+.wrapper-child{
+    display: flex;
+    justify-content: space-between;
+}
