@@ -1,6 +1,6 @@
 # React + Vite
 
-![Uploading WhatsApp Image 2023-09-14 at 14.46.22.jpeg…]()
+![WhatsApp Image 2023-09-14 at 14 46 22](https://github.com/teukusem/react-todo-weizly/assets/74671757/675edb8c-ed86-40cc-a495-72d4e0cf912c)
 
 
 
